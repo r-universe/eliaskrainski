@@ -8,3 +8,8 @@
 	url = https://github.com/eliaskrainski/inlaspacetime
 	shallow = true
 	registered = true
+[submodule "inlabru"]
+	path = inlabru
+	url = https://github.com/inlabru-org/inlabru
+	shallow = true
+	registered = false
