@@ -5,7 +5,3 @@
 [submodule "INLAspacetime"]
 	path = INLAspacetime
 	url = https://github.com/eliaskrainski/inlaspacetime
-[submodule "inlabru"]
-	path = inlabru
-	url = https://github.com/inlabru-org/inlabru
-	registered = false
