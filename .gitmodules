@@ -5,6 +5,9 @@
 [submodule "INLAspacetime"]
 	path = INLAspacetime
 	url = https://github.com/eliaskrainski/inlaspacetime
+[submodule "INLAtools"]
+	path = INLAtools
+	url = https://github.com/cran/INLAtools
 [submodule "graphpcor"]
 	path = graphpcor
 	url = https://github.com/cran/graphpcor
