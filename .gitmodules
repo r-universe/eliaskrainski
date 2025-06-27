@@ -7,7 +7,7 @@
 	url = https://github.com/eliaskrainski/inlaspacetime
 [submodule "INLAtools"]
 	path = INLAtools
-	url = https://github.com/cran/INLAtools
+	url = https://github.com/eliaskrainski/inlatools
 [submodule "graphpcor"]
 	path = graphpcor
 	url = https://github.com/cran/graphpcor
